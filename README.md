@@ -1,8 +1,8 @@
-# image slider javascript projectHosted Project
+# image slider javascript project
 ### Hosted Project
-[link to goi uvib](https://js-beginners.github.io/background-image-slider-project/)
+
 ### Github Source Files
-https://github.com/JS-Beginners/background-image-slider-project
+
 ### JavaScript Used
 * DOM Manipulation
 * Control Structures
