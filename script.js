@@ -4,7 +4,7 @@ let leftArrow = document.querySelector('.slide-left');
 let rightArrow = document.querySelector('.slide-right');
 let img = document.querySelector('.slider-img');
 
-const images = ['img/img1.jpg','img/img2.jpg','img/img3.jpg','img/img4.jpg','img/img5.jpg','img/img6.jpg','img/img7.jpg','img/img8.jpg','img/img9.jpg'];
+const images = ['img1.jpg','img2.jpg','img3.jpg','img4.jpg','img5.jpg','img6.jpg','img7.jpg','img8.jpg','img9.jpg'];
 
 let range = 0;
 
